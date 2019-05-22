@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "name" : "Playstation 4",
+        "price" : 500,
+        "quantity" : 3
+    },
+    {
+        "id" : 2,
+        "name" : "Iphone XS",
+        "price" : 1000,
+        "quantity" : 2
+    },
+    {
+        "id" : 3,
+        "name" : "Samsung Galaxy S10",
+        "price" : 1000,
+        "quantity" : 5
+    },
+    {
+        "id" : 4,
+        "name" : "Macbook AIR",
+        "price" : 1500,
+        "quantity" : 1
+    },
+    {
+        "id" : 5,
+        "name" : "Iphone SE",
+        "price" : 300,
+        "quantity" : 4
+    }
+]
