@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/react_tableFiltering/static/js/main.c387a67a.chunk.js",
+    "main.js.map": "/react_tableFiltering/static/js/main.c387a67a.chunk.js.map",
+    "runtime~main.js": "/react_tableFiltering/static/js/runtime~main.a42bfa49.js",
+    "runtime~main.js.map": "/react_tableFiltering/static/js/runtime~main.a42bfa49.js.map",
+    "static/js/2.c4172aca.chunk.js": "/react_tableFiltering/static/js/2.c4172aca.chunk.js",
+    "static/js/2.c4172aca.chunk.js.map": "/react_tableFiltering/static/js/2.c4172aca.chunk.js.map",
+    "index.html": "/react_tableFiltering/index.html",
+    "precache-manifest.a11b97083a3a7f101cd5bb1effd407d3.js": "/react_tableFiltering/precache-manifest.a11b97083a3a7f101cd5bb1effd407d3.js",
+    "service-worker.js": "/react_tableFiltering/service-worker.js"
+  }
+}
